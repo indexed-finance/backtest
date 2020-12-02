@@ -1,0 +1,1106 @@
+[
+  {
+    "name": "USDK",
+    "symbol": "USDK"
+  },
+  {
+    "name": "ChainLink",
+    "symbol": "LINK"
+  },
+  {
+    "name": "TetherUSD",
+    "symbol": "USDT"
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI"
+  },
+  {
+    "name": "WrappedEther",
+    "symbol": "WETH"
+  },
+  {
+    "name": "USDCoin",
+    "symbol": "USDC"
+  },
+  {
+    "name": "WrappedBTC",
+    "symbol": "WBTC"
+  },
+  {
+    "name": "ReserveRights",
+    "symbol": "RSR"
+  },
+  {
+    "name": "Celsius",
+    "symbol": "CEL"
+  },
+  {
+    "name": "CompoundDai",
+    "symbol": "cDAI"
+  },
+  {
+    "name": "HEX",
+    "symbol": "HEX"
+  },
+  {
+    "name": "Compound",
+    "symbol": "COMP"
+  },
+  {
+    "name": "AaveToken",
+    "symbol": "AAVE"
+  },
+  {
+    "name": "SynthetixNetworkToken",
+    "symbol": "SNX"
+  },
+  {
+    "name": "CurveDAOToken",
+    "symbol": "CRV"
+  },
+  {
+    "name": "EthLend",
+    "symbol": "LEND"
+  },
+  {
+    "name": "Hegic",
+    "symbol": "HEGIC"
+  },
+  {
+    "name": "UMAVotingTokenv1",
+    "symbol": "UMA"
+  },
+  {
+    "name": "yearn.finance",
+    "symbol": "YFI"
+  },
+  {
+    "name": "BandProtocol",
+    "symbol": "BAND"
+  },
+  {
+    "name": "DaiStablecoin",
+    "symbol": "DAI"
+  },
+  {
+    "name": "Gnosis",
+    "symbol": "GNO"
+  },
+  {
+    "name": "BinanceUSD",
+    "symbol": "BUSD"
+  },
+  {
+    "name": "Balancer",
+    "symbol": "BAL"
+  },
+  {
+    "name": "Maker",
+    "symbol": "MKR"
+  },
+  {
+    "name": "OmiseGO",
+    "symbol": "OMG"
+  },
+  {
+    "name": "Quant",
+    "symbol": "QNT"
+  },
+  {
+    "name": "Amp",
+    "symbol": "AMP"
+  },
+  {
+    "name": "Flexacoin",
+    "symbol": "FXC"
+  },
+  {
+    "name": "Strong",
+    "symbol": "STRONG"
+  },
+  {
+    "name": "HermezNetworkToken",
+    "symbol": "HEZ"
+  },
+  {
+    "name": "0xProtocol",
+    "symbol": "ZRX"
+  },
+  {
+    "name": "AtariToken",
+    "symbol": "ATRI"
+  },
+  {
+    "name": "PaxosStandard",
+    "symbol": "PAX"
+  },
+  {
+    "name": "KEEPToken",
+    "symbol": "KEEP"
+  },
+  {
+    "name": "Cream",
+    "symbol": "CREAM"
+  },
+  {
+    "name": "BasicAttentionToken",
+    "symbol": "BAT"
+  },
+  {
+    "name": "Numeraire",
+    "symbol": "NMR"
+  },
+  {
+    "name": "Republic",
+    "symbol": "REN"
+  },
+  {
+    "name": "bZxProtocolToken",
+    "symbol": "BZRX"
+  },
+  {
+    "name": "DIAToken",
+    "symbol": "DIA"
+  },
+  {
+    "name": "Swipe",
+    "symbol": "SXP"
+  },
+  {
+    "name": "CompoundUSDCoin",
+    "symbol": "cUSDC"
+  },
+  {
+    "name": "OceanToken",
+    "symbol": "OCEAN"
+  },
+  {
+    "name": "renBTC",
+    "symbol": "renBTC"
+  },
+  {
+    "name": "Ampleforth",
+    "symbol": "AMPL"
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "TUSD"
+  },
+  {
+    "name": "BounceToken",
+    "symbol": "BOT"
+  },
+  {
+    "name": "Loopring",
+    "symbol": "LRC"
+  },
+  {
+    "name": "Status",
+    "symbol": "SNT"
+  },
+  {
+    "name": "ConcentratedVotingPower",
+    "symbol": "CVP"
+  },
+  {
+    "name": "HUSD",
+    "symbol": "HUSD"
+  },
+  {
+    "name": "SushiToken",
+    "symbol": "SUSHI"
+  },
+  {
+    "name": "BarnBridgeGovernanceToken",
+    "symbol": "BOND"
+  },
+  {
+    "name": "KyberNetwork",
+    "symbol": "KNC"
+  },
+  {
+    "name": "MaticToken",
+    "symbol": "MATIC"
+  },
+  {
+    "name": "Serum",
+    "symbol": "SRM"
+  },
+  {
+    "name": "Mana",
+    "symbol": "MANA"
+  },
+  {
+    "name": "Curve.fiiearnpooltoken",
+    "symbol": "yCurve"
+  },
+  {
+    "name": "OrionProtocol",
+    "symbol": "ORN"
+  },
+  {
+    "name": "Augur",
+    "symbol": "REP"
+  },
+  {
+    "name": "Perpetual",
+    "symbol": "PERP"
+  },
+  {
+    "name": "AragonNetworkToken",
+    "symbol": "ANT"
+  },
+  {
+    "name": "AragonNetworkToken",
+    "symbol": "ANTv1"
+  },
+  {
+    "name": "Meta",
+    "symbol": "MTA"
+  },
+  {
+    "name": "Storj",
+    "symbol": "STORJ"
+  },
+  {
+    "name": "EnjinCoin",
+    "symbol": "ENJ"
+  },
+  {
+    "name": "OriginProtocol",
+    "symbol": "OGN"
+  },
+  {
+    "name": "PEAKDEFI",
+    "symbol": "PEAK"
+  },
+  {
+    "name": "AxieInfinityShard",
+    "symbol": "AXS"
+  },
+  {
+    "name": "Audius",
+    "symbol": "AUDIO"
+  },
+  {
+    "name": "Pluton",
+    "symbol": "PLU"
+  },
+  {
+    "name": "DeFiner",
+    "symbol": "FIN"
+  },
+  {
+    "name": "EmptySetDollar",
+    "symbol": "ESD"
+  },
+  {
+    "name": "MCDEXToken",
+    "symbol": "MCB"
+  },
+  {
+    "name": "COL",
+    "symbol": "COL"
+  },
+  {
+    "name": "AllianceBlockToken",
+    "symbol": "ALBT"
+  },
+  {
+    "name": "dHedgeDAOToken",
+    "symbol": "DHT"
+  },
+  {
+    "name": "EthfinexNectarToken",
+    "symbol": "NEC"
+  },
+  {
+    "name": "HoloToken",
+    "symbol": "HOT"
+  },
+  {
+    "name": "iExecRLC",
+    "symbol": "RLC"
+  },
+  {
+    "name": "MATHToken",
+    "symbol": "MATH"
+  },
+  {
+    "name": "Bancor",
+    "symbol": "BNT"
+  },
+  {
+    "name": "PowerLedger",
+    "symbol": "POWR"
+  },
+  {
+    "name": "PieDAODOUGHv2",
+    "symbol": "DOUGH"
+  },
+  {
+    "name": "Multiplier",
+    "symbol": "MXX"
+  },
+  {
+    "name": "KardiaChainToken",
+    "symbol": "KAI"
+  },
+  {
+    "name": "Aelf",
+    "symbol": "ELF"
+  },
+  {
+    "name": "DMMGovernance",
+    "symbol": "DMG"
+  },
+  {
+    "name": "Kleros",
+    "symbol": "PNK"
+  },
+  {
+    "name": "YFII.finance",
+    "symbol": "YFII"
+  },
+  {
+    "name": "Civic",
+    "symbol": "CVC"
+  },
+  {
+    "name": "ReputationV2",
+    "symbol": "REPv2"
+  },
+  {
+    "name": "Robonomics",
+    "symbol": "XRT"
+  },
+  {
+    "name": "PowerTradeFuelToken",
+    "symbol": "PTF"
+  },
+  {
+    "name": "Holyheld",
+    "symbol": "HOLY"
+  },
+  {
+    "name": "DOSNetworkToken",
+    "symbol": "DOS"
+  },
+  {
+    "name": "STAKE",
+    "symbol": "STAKE"
+  },
+  {
+    "name": "ParsiqToken",
+    "symbol": "PRQ"
+  },
+  {
+    "name": "PaxosGold",
+    "symbol": "PAXG"
+  },
+  {
+    "name": "yearnCurve.fiyDAIyUSDCyUSDTyTUSD",
+    "symbol": "yyCurve"
+  },
+  {
+    "name": "Index",
+    "symbol": "INDEX"
+  },
+  {
+    "name": "aleph.imv2",
+    "symbol": "ALEPH"
+  },
+  {
+    "name": "GRID",
+    "symbol": "GRID"
+  },
+  {
+    "name": "Trace",
+    "symbol": "TRAC"
+  },
+  {
+    "name": "Neutrino",
+    "symbol": "USDN"
+  },
+  {
+    "name": "Proton",
+    "symbol": "XPR"
+  },
+  {
+    "name": "Polymath",
+    "symbol": "POLY"
+  },
+  {
+    "name": "SynthsUSD",
+    "symbol": "sUSD"
+  },
+  {
+    "name": "APYGovernanceToken",
+    "symbol": "APY"
+  },
+  {
+    "name": "RocketPool",
+    "symbol": "RPL"
+  },
+  {
+    "name": "SingularityNETToken",
+    "symbol": "AGI"
+  },
+  {
+    "name": "YFLink",
+    "symbol": "YFL"
+  },
+  {
+    "name": "AirSwap",
+    "symbol": "AST"
+  },
+  {
+    "name": "Rarible",
+    "symbol": "RARI"
+  },
+  {
+    "name": "UniBright",
+    "symbol": "UBT"
+  },
+  {
+    "name": "Keep3rV1",
+    "symbol": "KP3R"
+  },
+  {
+    "name": "TellorTributes",
+    "symbol": "TRB"
+  },
+  {
+    "name": "Dev",
+    "symbol": "DEV"
+  },
+  {
+    "name": "BloceryToken",
+    "symbol": "BLY"
+  },
+  {
+    "name": "SoraToken",
+    "symbol": "XOR"
+  },
+  {
+    "name": "PundiX",
+    "symbol": "NPXS"
+  },
+  {
+    "name": "DarwiniaNetworkNativeToken",
+    "symbol": "RING"
+  },
+  {
+    "name": "WrappedNXM",
+    "symbol": "wNXM"
+  },
+  {
+    "name": "FunFair",
+    "symbol": "FUN"
+  },
+  {
+    "name": "IDEXToken",
+    "symbol": "IDEX"
+  },
+  {
+    "name": "Streamr",
+    "symbol": "DATA"
+  },
+  {
+    "name": "CartesiToken",
+    "symbol": "CTSI"
+  },
+  {
+    "name": "MelonToken",
+    "symbol": "MLN"
+  },
+  {
+    "name": "Decentr",
+    "symbol": "DEC"
+  },
+  {
+    "name": "AaveInterestbearingDAI",
+    "symbol": "aDAI"
+  },
+  {
+    "name": "SwagToken",
+    "symbol": "SWAG"
+  },
+  {
+    "name": "Bluzelle",
+    "symbol": "BLZ"
+  },
+  {
+    "name": "Ripio",
+    "symbol": "RCN"
+  },
+  {
+    "name": "cVault.finance",
+    "symbol": "CORE"
+  },
+  {
+    "name": "XinFin",
+    "symbol": "XDCE"
+  },
+  {
+    "name": "Akropolis",
+    "symbol": "AKRO"
+  },
+  {
+    "name": "Geeq",
+    "symbol": "GEEQ"
+  },
+  {
+    "name": "STASISEURS",
+    "symbol": "EURS"
+  },
+  {
+    "name": "TrustSwapToken",
+    "symbol": "SWAP"
+  },
+  {
+    "name": "FOAMToken",
+    "symbol": "FOAM"
+  },
+  {
+    "name": "FrontierToken",
+    "symbol": "FRONT"
+  },
+  {
+    "name": "HakkaFinance",
+    "symbol": "HAKKA"
+  },
+  {
+    "name": "DefiDollarDAO",
+    "symbol": "DFD"
+  },
+  {
+    "name": "DefiPulseIndex",
+    "symbol": "DPI"
+  },
+  {
+    "name": "Karma",
+    "symbol": "KARMA"
+  },
+  {
+    "name": "FARMRewardToken",
+    "symbol": "FARM"
+  },
+  {
+    "name": "DXdao",
+    "symbol": "DXD"
+  },
+  {
+    "name": "AdExNetwork",
+    "symbol": "ADX"
+  },
+  {
+    "name": "mStableUSD",
+    "symbol": "mUSD"
+  },
+  {
+    "name": "VIDTDatalink",
+    "symbol": "VIDT"
+  },
+  {
+    "name": "LivepeerToken",
+    "symbol": "LPT"
+  },
+  {
+    "name": "ValorToken",
+    "symbol": "VALOR"
+  },
+  {
+    "name": "Salt",
+    "symbol": "SALT"
+  },
+  {
+    "name": "Linkart",
+    "symbol": "LAR"
+  },
+  {
+    "name": "dfohub",
+    "symbol": "buidl"
+  },
+  {
+    "name": "PropsToken",
+    "symbol": "PROPS"
+  },
+  {
+    "name": "Falcon",
+    "symbol": "FNT"
+  },
+  {
+    "name": "LoomNetwork",
+    "symbol": "LOOM"
+  },
+  {
+    "name": "pNetworkToken",
+    "symbol": "PNT"
+  },
+  {
+    "name": "Request",
+    "symbol": "REQ"
+  },
+  {
+    "name": "yearnWrappedEther",
+    "symbol": "yWETH"
+  },
+  {
+    "name": "tBTC",
+    "symbol": "tBTC"
+  },
+  {
+    "name": "KyberStormXToken",
+    "symbol": "STMX"
+  },
+  {
+    "name": "XIONetwork",
+    "symbol": "XIO"
+  },
+  {
+    "name": "uDOO",
+    "symbol": "uDOO"
+  },
+  {
+    "name": "Growth",
+    "symbol": "GRO"
+  },
+  {
+    "name": "Relevant",
+    "symbol": "REL"
+  },
+  {
+    "name": "Mainframe",
+    "symbol": "MFT"
+  },
+  {
+    "name": "SynthsETH",
+    "symbol": "sETH"
+  },
+  {
+    "name": "FuseToken",
+    "symbol": "FUSE"
+  },
+  {
+    "name": "Metal",
+    "symbol": "MTL"
+  },
+  {
+    "name": "MeasurableDataToken",
+    "symbol": "MDT"
+  },
+  {
+    "name": "SAFE2",
+    "symbol": "SAFE2"
+  },
+  {
+    "name": "Cindicator",
+    "symbol": "CND"
+  },
+  {
+    "name": "RaidenNetworkToken",
+    "symbol": "RDN"
+  },
+  {
+    "name": "QurasToken",
+    "symbol": "XQC"
+  },
+  {
+    "name": "JarvisRewardToken",
+    "symbol": "JRT"
+  },
+  {
+    "name": "OMToken",
+    "symbol": "OM"
+  },
+  {
+    "name": "UniTrade",
+    "symbol": "TRADE"
+  },
+  {
+    "name": "MorpheusNetwork",
+    "symbol": "MRPH"
+  },
+  {
+    "name": "Pillar",
+    "symbol": "PLR"
+  },
+  {
+    "name": "ValueLiquidity",
+    "symbol": "VALUE"
+  },
+  {
+    "name": "Metronome",
+    "symbol": "MET"
+  },
+  {
+    "name": "Geminidollar",
+    "symbol": "GUSD"
+  },
+  {
+    "name": "Monolith",
+    "symbol": "TKN"
+  },
+  {
+    "name": "PickleToken",
+    "symbol": "PICKLE"
+  },
+  {
+    "name": "LendroidSupportToken",
+    "symbol": "LST"
+  },
+  {
+    "name": "UniCrypt",
+    "symbol": "UNC"
+  },
+  {
+    "name": "SaiStablecoin",
+    "symbol": "SAI"
+  },
+  {
+    "name": "2key.network",
+    "symbol": "2KEY"
+  },
+  {
+    "name": "AavegotchiGHSTToken",
+    "symbol": "GHST"
+  },
+  {
+    "name": "DEXTools",
+    "symbol": "DEXT"
+  },
+  {
+    "name": "Santiment",
+    "symbol": "SAN"
+  },
+  {
+    "name": "LamdenTau",
+    "symbol": "TAU"
+  },
+  {
+    "name": "WrappedANATHA",
+    "symbol": "wANATHA"
+  },
+  {
+    "name": "Geyser",
+    "symbol": "GYSR"
+  },
+  {
+    "name": "YFValue",
+    "symbol": "YFV"
+  },
+  {
+    "name": "FalconSwapToken",
+    "symbol": "FSW"
+  },
+  {
+    "name": "TomoChain",
+    "symbol": "TOMOE"
+  },
+  {
+    "name": "BASED",
+    "symbol": "BASED"
+  },
+  {
+    "name": "YAM",
+    "symbol": "YAM"
+  },
+  {
+    "name": "DAOStack",
+    "symbol": "GEN"
+  },
+  {
+    "name": "OpenPredictToken",
+    "symbol": "OPT"
+  },
+  {
+    "name": "SwerveDAOToken",
+    "symbol": "SWRV"
+  },
+  {
+    "name": "AragonNetworkJuror",
+    "symbol": "ANJ"
+  },
+  {
+    "name": "AkropolisDelphi",
+    "symbol": "ADEL"
+  },
+  {
+    "name": "TrueGBP",
+    "symbol": "TGBP"
+  },
+  {
+    "name": "GXChainCoreAsset",
+    "symbol": "GXC"
+  },
+  {
+    "name": "Abyss",
+    "symbol": "ABYSS"
+  },
+  {
+    "name": "DipperNetwork",
+    "symbol": "DIP"
+  },
+  {
+    "name": "CBIIndex7",
+    "symbol": "CBIX7"
+  },
+  {
+    "name": "ZeroSwapToken",
+    "symbol": "ZEE"
+  },
+  {
+    "name": "Autonio",
+    "symbol": "NIOX"
+  },
+  {
+    "name": "Panvalapan",
+    "symbol": "PAN"
+  },
+  {
+    "name": "DigixGoldToken",
+    "symbol": "DGX"
+  },
+  {
+    "name": "MEME",
+    "symbol": "MEME"
+  },
+  {
+    "name": "Auctus",
+    "symbol": "AUC"
+  },
+  {
+    "name": "Unilayer",
+    "symbol": "LAYER"
+  },
+  {
+    "name": "SPANK",
+    "symbol": "SPANK"
+  },
+  {
+    "name": "LuaToken",
+    "symbol": "LUA"
+  },
+  {
+    "name": "MixTrust",
+    "symbol": "MXT"
+  },
+  {
+    "name": "DMScript",
+    "symbol": "DMST"
+  },
+  {
+    "name": "USDQ",
+    "symbol": "USDQ"
+  },
+  {
+    "name": "CryptoFranc",
+    "symbol": "XCHF"
+  },
+  {
+    "name": "SyncFab",
+    "symbol": "MFG"
+  },
+  {
+    "name": "TrueAUD",
+    "symbol": "TAUD"
+  },
+  {
+    "name": "LiquidityDividendsProtocol",
+    "symbol": "LID"
+  },
+  {
+    "name": "dForce",
+    "symbol": "USDx"
+  },
+  {
+    "name": "EthverseToken",
+    "symbol": "ETHV"
+  },
+  {
+    "name": "DeFiPIEToken",
+    "symbol": "PIE"
+  },
+  {
+    "name": "TrustlinesNetworkToken",
+    "symbol": "TLN"
+  },
+  {
+    "name": "Cap",
+    "symbol": "CAP"
+  },
+  {
+    "name": "QDAO",
+    "symbol": "QDAO"
+  },
+  {
+    "name": "EnergyWebTokenBridged",
+    "symbol": "EWTB"
+  },
+  {
+    "name": "OWLToken",
+    "symbol": "OWL"
+  },
+  {
+    "name": "DSLA",
+    "symbol": "DSLA"
+  },
+  {
+    "name": "CoTrader",
+    "symbol": "COT"
+  },
+  {
+    "name": "ShipChainSHIP",
+    "symbol": "SHIP"
+  },
+  {
+    "name": "Amon",
+    "symbol": "AMN"
+  },
+  {
+    "name": "DMMUSDC",
+    "symbol": "mUSDC"
+  },
+  {
+    "name": "Statera",
+    "symbol": "STA"
+  },
+  {
+    "name": "DMMDAI",
+    "symbol": "mDAI"
+  },
+  {
+    "name": "SynthiBTC",
+    "symbol": "iBTC"
+  },
+  {
+    "name": "GHOST",
+    "symbol": "GHOST"
+  },
+  {
+    "name": "QuadrantProtocol",
+    "symbol": "EQUAD"
+  },
+  {
+    "name": "Remme",
+    "symbol": "REM"
+  },
+  {
+    "name": "Uptrennd",
+    "symbol": "1UP"
+  },
+  {
+    "name": "Keep4r",
+    "symbol": "KP4R"
+  },
+  {
+    "name": "DMMETH",
+    "symbol": "mETH"
+  },
+  {
+    "name": "SURF.Finance",
+    "symbol": "SURF"
+  },
+  {
+    "name": "Golff.finance",
+    "symbol": "GOF"
+  },
+  {
+    "name": "TrueHKD",
+    "symbol": "THKD"
+  },
+  {
+    "name": "CEEKVR",
+    "symbol": "CEEK"
+  },
+  {
+    "name": "RobonomicsWebServicesV1",
+    "symbol": "RWS"
+  },
+  {
+    "name": "Parachute",
+    "symbol": "PAR"
+  },
+  {
+    "name": "Swapfolio",
+    "symbol": "SWFL"
+  },
+  {
+    "name": "PlutusDeFi",
+    "symbol": "PLT"
+  },
+  {
+    "name": "Goldmint",
+    "symbol": "MNTP"
+  },
+  {
+    "name": "BlockchainCertifiedDataToken",
+    "symbol": "BCDT"
+  },
+  {
+    "name": "xBTC",
+    "symbol": "xBTC"
+  },
+  {
+    "name": "MachiXToken",
+    "symbol": "MCX"
+  },
+  {
+    "name": "FinNexus",
+    "symbol": "FNX"
+  },
+  {
+    "name": "Reserve",
+    "symbol": "RSV"
+  },
+  {
+    "name": "RMPL",
+    "symbol": "RMPL"
+  },
+  {
+    "name": "onG.social",
+    "symbol": "ONG"
+  },
+  {
+    "name": "CurToken",
+    "symbol": "CUR"
+  },
+  {
+    "name": "yfarm.finance",
+    "symbol": "YFM"
+  },
+  {
+    "name": "Flixxo",
+    "symbol": "FLIXX"
+  },
+  {
+    "name": "AstroTools.io",
+    "symbol": "ASTRO"
+  },
+  {
+    "name": "BiLira",
+    "symbol": "TRYB"
+  },
+  {
+    "name": "MeterGovernancemappedbyMeter.io",
+    "symbol": "eMTRG"
+  },
+  {
+    "name": "ChiGastokenby1inch",
+    "symbol": "CHI"
+  },
+  {
+    "name": "PredixNetwork",
+    "symbol": "PRDX"
+  },
+  {
+    "name": "DigitalRand",
+    "symbol": "DZAR"
+  },
+  {
+    "name": "MeridianNetwork",
+    "symbol": "LOCK"
+  }
+]
