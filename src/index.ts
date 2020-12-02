@@ -3,7 +3,6 @@ import cors from 'cors';
 import path from 'path';
 import fs from 'fs';
 import https from 'https';
-import http from 'http';
 import bodyparser from 'body-parser';
 import { Dataset } from './utils/datasets';
 import { PoolValueLog } from './types';
@@ -11,7 +10,7 @@ import { getMovingAverages, simulateWeights, simulatePools } from './simulators'
 import { PoolOptions } from './simulators/PoolController';
 import { getVolatility, tokenMeta } from './tokens/price-util';
 import { toDataset, toLabels } from './utils/datasets';
-import { startRedirectServer } from 'httpRedirect';
+import { startRedirectServer } from './httpRedirect';
 require('dotenv').config();
 
 const app = express();
