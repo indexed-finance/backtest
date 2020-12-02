@@ -124,7 +124,7 @@ app.get('*', function (req, res) {
   res.sendFile('index.html', { root });
 });
 
-if (PORT == 80) {
+if (PORT == 443) {
   // Certificate
   const privateKey = fs.readFileSync('/etc/letsencrypt/live/backtest.indexed.finance/privkey.pem', 'utf8');
   const certificate = fs.readFileSync('/etc/letsencrypt/live/backtest.indexed.finance/cert.pem', 'utf8');
