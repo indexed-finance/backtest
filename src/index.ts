@@ -10,6 +10,7 @@ import { getMovingAverages, simulateWeights, simulatePools } from './simulators'
 import { PoolOptions } from './simulators/PoolController';
 import { getVolatility, tokenMeta } from './tokens/price-util';
 import { toDataset, toLabels } from './utils/datasets';
+require('dotenv').config();
 
 const app = express();
 app.use(cors());
@@ -111,8 +112,6 @@ app.post('/backtest', async function (req, res) {
   if (hodl) {
     datasets.push(logsToDataset(hodlLogs, colorHodl, 'Simple Rebalancer'));
   }
-
-  console.log(`D ${datasets.length} L ${labels.length}`)
   res.json({ datasets, labels });
 });
 
@@ -126,9 +125,17 @@ app.get('*', function (req, res) {
 });
 
 if (PORT == 80) {
-  const key = fs.readFileSync(`/etc/ssl/private/apache-selfsigned.key`);
-  const cert = fs.readFileSync(`/etc/ssl/certs/apache-selfsigned.crt`);
-  const server = https.createServer({ key, cert }, app);
+  // Certificate
+  const privateKey = fs.readFileSync('/etc/letsencrypt/live/backtest.indexed.finance/privkey.pem', 'utf8');
+  const certificate = fs.readFileSync('/etc/letsencrypt/live/backtest.indexed.finance/cert.pem', 'utf8');
+  const ca = fs.readFileSync('/etc/letsencrypt/live/backtest.indexed.finance/chain.pem', 'utf8');
+
+  const credentials = {
+    key: privateKey,
+    cert: certificate,
+    ca
+  };
+  const server = https.createServer(credentials, app);
   server.listen(PORT, () => console.log(`listening on port ${PORT}`));
 } else {
   app.listen(PORT, () => console.log(`listening on port ${PORT}`))
