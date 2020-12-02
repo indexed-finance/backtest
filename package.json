@@ -10,7 +10,7 @@
   "scripts": {
     "prebuild": "rimraf ./dist",
     "build": "tsc -p tsconfig.build.json",
-    "postbuild": "copyfiles -u 1 src/public/**/*.* dist/ && cp ./src/.env ./dist/.env",
+    "postbuild": "copyfiles -u 1 src/public/**/*.* dist/",
     "prepublish": "npm run build",
     "start": "node ./dist/index.js"
   },
